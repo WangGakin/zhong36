@@ -33,8 +33,8 @@ layers = 4
 [[keymap.layer]] # layer 0
 keys = """
 Q        W         E         R         T          Y         U       I       O       P
-MT(LCtrl, A)    S       D      F       G          H         J       K       L       MT(LCtrl, Enter)
-MT(LShift, Z)    X        C        V        B          N         M       Comma      Dot
+MT(A, LCtrl)    S       D      F       G          H         J       K       L       MT(Enter, LCtrl)
+MT(Z, LShift)    X        C        V        B          N         M       Comma      Dot
          LAlt       MO(1)      Space       MO(2)        Space      Backspace     Delete
 """
 
