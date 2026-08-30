@@ -59,7 +59,6 @@ one_shot = { timeout = "1s" }
 
 [behavior.morse]
 # This default setting enables HRM with all tap-hold features
-[behavior.morse]
 enable_flow_tap = true
 prior_idle_time = "120ms"
 hold_on_other_press = true
