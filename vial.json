@@ -7,6 +7,43 @@
         "rows": 4,
         "cols": 10
     },
+"customKeycodes": [
+  {
+    "name": "Bluetooth Profile 0",
+    "title": "Switch to Bluetooth Profile 0. Hold 5 seconds to clear pairing and enter pairing mode.",
+    "shortName": "BT0"
+  },
+  {
+    "name": "Bluetooth Profile 1",
+    "title": "Switch to Bluetooth Profile 1. Hold 5 seconds to clear pairing and enter pairing mode.",
+    "shortName": "BT1"
+  },
+  {
+    "name": "Bluetooth Profile 2",
+    "title": "Switch to Bluetooth Profile 2. Hold 5 seconds to clear pairing and enter pairing mode.",
+    "shortName": "BT2"
+  },
+  {
+    "name": "Next Bluetooth Profile",
+    "title": "Switch to the next Bluetooth profile.",
+    "shortName": "BT+"
+  },
+  {
+    "name": "Previous Bluetooth Profile",
+    "title": "Switch to the previous Bluetooth profile.",
+    "shortName": "BT-"
+  },
+  {
+    "name": "Clear Bluetooth Pairing",
+    "title": "Clear pairing information for the current Bluetooth profile.",
+    "shortName": "BT CLR"
+  },
+  {
+    "name": "Switch USB/Bluetooth Output",
+    "title": "Switch keyboard output between USB and Bluetooth.",
+    "shortName": "USB/BT"
+  }
+],
   "layouts": {
     "keymap": [
       [
